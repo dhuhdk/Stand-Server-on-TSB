@@ -1,1 +1,6 @@
-{"Skill1":false,"Skill4":false,"Skill2":false,"Skill3":false}
+{
+    "Skill1" : false,
+    "Skill4" : false,
+    "Skill2" : false,
+    "Skill3" : false
+  }
